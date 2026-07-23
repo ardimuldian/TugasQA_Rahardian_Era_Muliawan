@@ -10,29 +10,23 @@ Portfolio ini berisi dokumentasi proses Quality Assurance mulai dari Manual Test
 
 **Application**
 
-Pasangin QA Testing
+Pasangin Web
 
 **Testing Scope**
 
-- Authentication
-- Manual Testing
-- Bug Reporting
-- Automation Testing
-
+- Test Case
+- Bug Management (Bug Reporting & Bug Priority)
+- Pseudocode/flowchart Automation
 ---
 
 ## 📂 Repository Structure
 
 ```text
-qa-testing-portfolio
+TugasQA_Rahardian_Era_Muliawan
 │
 ├── docs
-├── test-plan
-├── test-case
-├── test-execution
-├── bug-evidence
-├── automation
-└── reports
+├── test_case_and_bug_reporting
+├── test_pseudocode_flowchart_automation
 ```
 
 ---
