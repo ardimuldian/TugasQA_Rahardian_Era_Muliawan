@@ -73,7 +73,7 @@ Bug dikelola menggunakan GitHub Issues.
 
 📄 Dokumen Pseudocode/Flowchart to Automation
 
-- [Klik di sini](https://github.com/ardimuldian/TugasQA_Rahardian_Era_Muliawan/blob/main/Pseudocode_Flowchart.pdf)
+- [Klik di sini](https://github.com/ardimuldian/TugasQA_Rahardian_Era_Muliawan/blob/main/test_pseudocode_flowchart_automation/Pseudocode_Flowchart.pdf)
 
 ---
 
