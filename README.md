@@ -63,61 +63,17 @@ Bug dikelola menggunakan GitHub Issues.
 
 ### Preview
 
-> Tambahkan screenshot halaman GitHub Issues
+- <img width="1350" height="491" alt="Screenshot_4" src="https://github.com/user-attachments/assets/1101cde4-3219-4015-b160-43ed65758b4c" />
+- <img width="1101" height="1845" alt="download" src="https://github.com/user-attachments/assets/2b5c2753-1f87-43fe-9f01-3aafe07fe806" />
 
-![Bug Report](./docs/images/github-issues.png)
-
-🔗 GitHub Issues
-
-https://github.com/USERNAME/qa-testing-portfolio/issues
 
 ---
 
-# 📋 Automation Documentation
+## Pseudocode/Flowchart untuk ke arah automation testing
 
-Automation dibuat menggunakan Katalon Studio.
+📄 Dokumen Pseudocode/Flowchart to Automation
 
-Dokumentasi terdiri dari
-
-- Pseudocode
-- Flowchart
-- Automation Script
-
----
-
-## Pseudocode
-
-📄 Register
-
-- [Register Pseudocode](./automation/docs/Register/Register_Pseudocode.md)
-
-📄 Login
-
-- [Login Pseudocode](./automation/docs/Login/Login_Pseudocode.md)
-
-### Preview
-
-> Tambahkan screenshot pseudocode
-
-![Pseudocode](./docs/images/pseudocode-register.png)
-
----
-
-## Flowchart
-
-📄 Register
-
-- [Register Flowchart](./automation/docs/Register/Register_Flowchart.png)
-
-📄 Login
-
-- [Login Flowchart](./automation/docs/Login/Login_Flowchart.png)
-
-### Preview
-
-> Tambahkan screenshot flowchart
-
-![Flowchart](./docs/images/flowchart-register.png)
+- [Klik di sini](https://github.com/ardimuldian/TugasQA_Rahardian_Era_Muliawan/blob/main/Pseudocode_Flowchart.pdf)
 
 ---
 
@@ -125,36 +81,10 @@ Dokumentasi terdiri dari
 
 - Microsoft Excel
 - GitHub
-- Katalon Studio
 - Google Chrome
-
----
-
-# 📈 Workflow
-
-```text
-Requirement
-      │
-      ▼
-Test Plan
-      │
-      ▼
-Test Case
-      │
-      ▼
-Testing
-      │
-      ▼
-Bug Reporting
-      │
-      ▼
-Automation Testing
-```
 
 ---
 
 # 👨‍💻 Author
 
 Rahardian Era Muliawan
-
-QA Engineer Portfolio
