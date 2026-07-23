@@ -2,7 +2,7 @@
 
 # 🧪 QA Testing Portfolio
 
-Portfolio ini berisi dokumentasi proses Quality Assurance mulai dari Manual Testing, Bug Reporting, hingga Automation Testing.
+Jawaban Technical Test QA Pasangin Web.
 
 ---
 
@@ -17,6 +17,7 @@ Pasangin Web
 - Test Case
 - Bug Management (Bug Reporting & Bug Priority)
 - Pseudocode/flowchart Automation
+- Bug Reporting & Bug Priority
 ---
 
 ## 📂 Repository Structure
@@ -38,18 +39,21 @@ Dokumentasi Test Case dibuat menggunakan Microsoft Excel.
 📁 Folder
 
 ```text
-test-case/pasangin/
+test_case_and_bug_reporting
 ```
 
 📄 Dokumen
 
-- [Authentication Test Case](./test-case/pasangin/Authentication.xlsx)
+- [Klik di sini](https://github.com/ardimuldian/TugasQA_Rahardian_Era_Muliawan/tree/main/test_case_and_bug_reporting)
 
 ### Preview
 
-> Tambahkan screenshot Excel di sini
+- Test Case Excel
+- <img width="1325" height="438" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0348f6ea-7aa8-4a52-bfdb-75bce301399e" />
+- Bug Reporting Excel
+- <img width="1320" height="423" alt="Screenshot_2" src="https://github.com/user-attachments/assets/82172f8d-1ad1-48df-892b-5a2264398487" />
+- <img width="1281" height="386" alt="Screenshot_3" src="https://github.com/user-attachments/assets/12bea573-f240-4b36-9838-d97bfd7ea5d7" />
 
-![Test Case](./docs/images/test-case-authentication.png)
 
 ---
 
